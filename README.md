@@ -1,6 +1,6 @@
 # PdXR - turn your PureData patches into XR Metaverse expierences
 
-PdXR is an implementation of PureData for Metaverse environments. 
+PdXR is an open-source implementation of PureData for Metaverse environments. 
 Use a PD patch with your VR or AR devices together with other people in a shared Metaverse environment. 
 
 
@@ -169,6 +169,11 @@ are added to this project
           });
         }
 ```
+
+## Develope compatible PD patches
+
+
+
 
 ## Run on Glitch
 
