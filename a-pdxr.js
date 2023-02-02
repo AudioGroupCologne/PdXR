@@ -2060,7 +2060,7 @@ function openPatch(content, file) {
           let entitySupKey = document.createElement("a-entity");
 
           entitySupKey.setAttribute("super-keyboard", "hand", "#player");
-          entitySupKey.setAttribute("super-keyboard", "imagePath", "./dist");
+          entitySupKey.setAttribute("super-keyboard", "imagePath", "./aframe-super-keyboard/dist");
           entitySupKey.setAttribute("super-keyboard", "model", "numpad");
           entitySupKey.setAttribute("super-keyboard", "multipleInputs", true);
           entitySupKey.setAttribute("position", "0 -0.25 0.75");
@@ -2125,7 +2125,7 @@ function openPatch(content, file) {
           let entitySupKey = document.createElement("a-entity");
 
           entitySupKey.setAttribute("super-keyboard", "hand", "#player");
-          entitySupKey.setAttribute("super-keyboard", "imagePath", "./dist");
+          entitySupKey.setAttribute("super-keyboard", "imagePath", "./aframe-super-keyboard/dist");
           entitySupKey.setAttribute("super-keyboard", "model", "basic");
           entitySupKey.setAttribute("super-keyboard", "multipleInputs", true);
           entitySupKey.setAttribute("position", "0 -0.25 0.75");
@@ -2257,7 +2257,7 @@ function openPatch(content, file) {
                 entitySupKey.setAttribute(
                   "super-keyboard",
                   "imagePath",
-                  "./dist"
+                  "./aframe-super-keyboard/dist"
                 );
                 entitySupKey.setAttribute("super-keyboard", "model", "numpad");
                 entitySupKey.setAttribute(
