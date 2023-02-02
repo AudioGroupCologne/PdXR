@@ -1,0 +1,6 @@
+[submodule "aframe-resonance-audio-component"]
+	path = aframe-resonance-audio-component
+	url = https://github.com/AudioGroupCologne/aframe-resonance-audio-component
+[submodule "aframe-super-keyboard"]
+	path = aframe-super-keyboard
+	url = https://github.com/AudioGroupCologne/aframe-super-keyboard
