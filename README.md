@@ -180,6 +180,6 @@ are added to this project
 Run or remix Metabeat on Glitch: [PdXR Example](https://pdxr.glitch.me/)
 
 
-## Based on
+## Acknowledgements
 
 PdXR ist based on [PdWebParty](https://github.com/cuinjune/PdWebParty) by Zack Lee
