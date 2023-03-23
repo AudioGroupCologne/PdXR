@@ -182,4 +182,4 @@ Run or remix Metabeat on Glitch: [PdXR Example](https://pdxr.glitch.me/)
 
 ## Acknowledgements
 
-PdXR ist based on [PdWebParty](https://github.com/cuinjune/PdWebParty) by Zack Lee
+PdXR ist based on [PdWebParty](https://github.com/cuinjune/PdWebParty) by Zack Lee, integrating the [PureData](https://github.com/pure-data/) programming language.
