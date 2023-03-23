@@ -177,7 +177,7 @@ are added to this project
 
 ## Run on Glitch
 
-Run or remix Metabeat on Glitch: [PdXR Example](https://pdxr.glitch.me/)
+Run or remix PdXR on Glitch: [PdXR Example](https://pdxr.glitch.me/)
 
 
 ## Acknowledgements
